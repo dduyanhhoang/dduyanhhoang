@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **dduyanhhoang/dduyanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Duy Anh, a IT undergraduate majored in AI living in Ho Chi Minh city, Vietnam.
+
+### Contact me
+
+You can reach me at dduyanhhoang@gmail.com

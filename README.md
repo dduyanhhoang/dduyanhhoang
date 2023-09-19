@@ -1,11 +1,5 @@
 # Hi there 👋
 
-_[Cool render by Pramod Tiwari](https://unsplash.com/photos/zJG7DvJtpXA)_
-<img 
-    src="./image.jpeg"
-    alt="Image of an astronaut not in the ocean"
-    >
-
 <!--
 **dduyanhhoang/dduyanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

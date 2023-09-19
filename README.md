@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Duy Anh, a IT undergraduate majored in AI living in Ho Chi Minh city, Vietnam.
+I'm Duy Anh, a IT undergraduate major in AI living in Ho Chi Minh city, Vietnam.
 
 ### Contact me
 

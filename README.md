@@ -1,17 +1,12 @@
 # Hi there 👋
 
+_[Cool render by Pramod Tiwari](https://unsplash.com/photos/zJG7DvJtpXA)_
 <img 
     src="./image.jpeg"
-    style="width: 600px; height: 150px; margin: 0 auto; display: block; object-fit: cover;"
+    style="width: 1000px; height: 150px; margin: 0 auto; display: block; object-fit: cover;"
     href="https://unsplash.com/photos/zJG7DvJtpXA"
     alt="Image of an astronaut not in the ocean"
     >
-
-<div style="text-align: right">
-    <a href="https://unsplash.com/photos/zJG7DvJtpXA">
-        <small><i>Cool render by Pramod Tiwari</i></small>
-    </a>
-</div>
 
 <!--
 **dduyanhhoang/dduyanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

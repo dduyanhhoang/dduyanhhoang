@@ -19,4 +19,4 @@ I'm Duy Anh, a IT undergraduate major in AI living in Ho Chi Minh city, Vietnam.
 
 ## Contact me
 
-You can reach me at contact@dduyanhhoang.co
+You can reach me at contact.dduyanhhoang@gmail.com

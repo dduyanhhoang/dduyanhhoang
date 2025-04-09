@@ -1,4 +1,4 @@
-# Hi there 👋
+# About
 
 <!--
 **dduyanhhoang/dduyanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 I'm Duy Anh, a IT undergraduate major in AI living in Ho Chi Minh city, Vietnam.
 
-## Contact me
+# Others
+
+## Game
+
+- HackerRank: https://www.hackerrank.com/profile/dduyanhhoang
+- On Google for Devs: https://g.dev/dduyanhhoang
+- Chess (haha teach me): https://www.chess.com/member/dduyanhhoang
+
+# Contact me
 
 You can reach me at contact.dduyanhhoang@gmail.com

@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 I'm Duy Anh, a IT undergraduate major in AI living in Ho Chi Minh city, Vietnam.
 
-# Others
+# Other
 
 ## Game
 
 - HackerRank: https://www.hackerrank.com/profile/dduyanhhoang
 - On Google for Devs: https://g.dev/dduyanhhoang
 - Chess (haha teach me): https://www.chess.com/member/dduyanhhoang
+- Tetris: https://ch.tetr.io/u/dduyanhhoang
 
 # Contact me
 
